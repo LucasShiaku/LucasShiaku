@@ -1,11 +1,11 @@
-👋 Eu sou Lucas Shiaku, um entusiasta da tecnologia e apaixonado por programação, atualmente com 19 anos. Estou trilhando meu caminho no mundo da análise e desenvolvimento de sistemas, buscando constantemente aprender e evoluir nesse campo dinâmico e em constante mudança.
+ Eu sou Lucas Shiaku, um entusiasta da tecnologia e apaixonado por programação, atualmente com 19 anos. Estou trilhando meu caminho no mundo da análise e desenvolvimento de sistemas, buscando constantemente aprender e evoluir nesse campo dinâmico e em constante mudança.
 
-📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, onde estou adquirindo conhecimentos sólidos em diferentes áreas, desde a lógica de programação até o desenvolvimento de aplicações mais complexas.
+ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, onde estou adquirindo conhecimentos sólidos em diferentes áreas, desde a lógica de programação até o desenvolvimento de aplicações mais complexas.
 
 
 Minha jornada até agora tem sido repleta de desafios estimulantes e projetos empolgantes, um exemplo é o site que eu e meus colegas de classe desenvolvemos para a B3(IPOHUB), o projeto tinha objetivo final incentivar e ajudar novos investidores para conhecer os IPOs.
 
-💻 Minhas áreas de interesse incluem:
+ Minhas áreas de interesse incluem:
 
 Desenvolvimento de software
 Programação web
@@ -14,9 +14,9 @@ Lógica de programação
 Resolução de problemas
 Aprendizado contínuo
 
-🤝 Estou aberto a colaborações e projetos interessantes, onde posso contribuir e aprender com colegas desenvolvedores. Acredito que a troca de conhecimento é uma parte crucial do crescimento profissional e pessoal.
+Estou aberto a colaborações e projetos interessantes, onde posso contribuir e aprender com colegas desenvolvedores. Acredito que a troca de conhecimento é uma parte crucial do crescimento profissional e pessoal.
 
-🚀 Estou empolgado em compartilhar meus projetos aqui no GitHub, onde você poderá acompanhar meu progresso e explorar algumas das minhas criações.
+ Estou empolgado em compartilhar meus projetos aqui no GitHub, onde você poderá acompanhar meu progresso e explorar algumas das minhas criações.
 
 
 <h2>Frontend</h2>
