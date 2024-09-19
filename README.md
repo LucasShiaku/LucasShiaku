@@ -1,4 +1,4 @@
- Eu sou Lucas Shiaku, um entusiasta da tecnologia e apaixonado por programação, atualmente com 19 anos. Estou trilhando meu caminho no mundo da análise e desenvolvimento de sistemas, buscando constantemente aprender e evoluir nesse campo dinâmico e em constante mudança.
+ Eu sou Lucas Shiaku, um entusiasta da tecnologia e apaixonado por programação, atualmente com 20 anos. Estou trilhando meu caminho no mundo da análise e desenvolvimento de sistemas, buscando constantemente aprender e evoluir nesse campo dinâmico e em constante mudança.
 
  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, onde estou adquirindo conhecimentos sólidos em diferentes áreas, desde a lógica de programação até o desenvolvimento de aplicações mais complexas.
 
@@ -10,9 +10,10 @@ Minha jornada até agora tem sido repleta de desafios estimulantes e projetos em
 Desenvolvimento de software
 Programação web
 Desenvolvimento de aplicativos
-Lógica de programação
-Resolução de problemas
-Aprendizado contínuo
+AWS
+SQL
+C#
+
 
 Estou aberto a colaborações e projetos interessantes, onde posso contribuir e aprender com colegas desenvolvedores. Acredito que a troca de conhecimento é uma parte crucial do crescimento profissional e pessoal.
 
